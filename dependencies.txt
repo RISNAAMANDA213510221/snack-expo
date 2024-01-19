@@ -1,0 +1,10 @@
+npm init
+
+npm i express
+npm i nodemen
+npm i mongoose
+npm i cors
+npm i bcrypt
+npm i jsonwebtoken
+
+mongodb+srv://risnaamanda98:admin@cluster0.euzdado.mongodb.net/?retryWrites=true&w=majority
